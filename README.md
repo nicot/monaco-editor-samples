@@ -9,6 +9,7 @@ From npm:
 ```
 npm install monaco-editor-samples
 cd node_modules/monaco-editor-samples
+npm install .
 npm run simpleserver
 ```
 
